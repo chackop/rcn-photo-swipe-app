@@ -24,7 +24,7 @@
     "expo-font": "~8.1.0",
     "expo-linking": "^1.0.0",
     "expo-web-browser": "~8.2.0",
-    "immer": "^6.0.5",
+    "immer": "^9.0.6",
     "native-base": "^2.13.12",
     "normalizr": "^3.6.0",
     "qs": "^6.9.4",
