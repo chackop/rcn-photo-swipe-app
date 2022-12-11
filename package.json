@@ -27,7 +27,7 @@
     "immer": "^6.0.5",
     "native-base": "^2.13.12",
     "normalizr": "^3.6.0",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
